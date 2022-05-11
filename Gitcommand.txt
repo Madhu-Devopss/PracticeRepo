@@ -1,0 +1,31 @@
+git clone url
+
+cd <repo name>
+git add <fileName>
+git commit -m "local repo" <fileName>
+
+git push origin main
+
+git pull -- latest changes from git.
+git fetch -- it pull latest but it doesnot show in our local repo
+
+git merge -- changes shows in our local
+
+git logs:
+========
+git log <fileName>--  display  logs within the file.
+git log --oneline
+
+Undo:
+=====
+working & staging area:
+
+git restore --stged <filename>
+
+Undo from local repo:
+=====================
+git reset --soft <id> (a1e2b3)----> take changes back to the staging area.
+
+git reset --hard <id>(ale2b3)------> take changes to the working area.
+
+ 
