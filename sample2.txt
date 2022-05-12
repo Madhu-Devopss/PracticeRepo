@@ -1,4 +1,11 @@
   changes in branch
+<<<<<<< HEAD
   changes in branch
 changes in main
 
+=======
+changes in main
+
+changes 1
+changes 2
+>>>>>>> 26f0df5 (latest)
