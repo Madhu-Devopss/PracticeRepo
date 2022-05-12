@@ -1,3 +1,4 @@
 Fast forward merge
 f-1
 f-2
+f-3
