@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-madhu
-=======
 madhu
 mahendra
->>>>>>> devbranch
