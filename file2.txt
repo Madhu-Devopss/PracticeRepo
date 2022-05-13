@@ -1,3 +1,4 @@
 file2 is created
 file2 is modified
 file3 is deleted
+file2 is added
