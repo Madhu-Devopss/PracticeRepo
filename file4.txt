@@ -1,0 +1,2 @@
+file4 is added
+file4 is deleted
