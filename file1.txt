@@ -1,3 +1,5 @@
 file1 is created
 file1 is modified
 file1 is deleted
+file1 is added
+file1 is moved
