@@ -3,3 +3,4 @@ file1 is modified
 file1 is deleted
 file1 is added
 file1 is moved
+file7 is droped
