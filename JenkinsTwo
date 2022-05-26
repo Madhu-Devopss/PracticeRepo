@@ -1,0 +1,10 @@
+pipeline{
+ agent any
+ stages{
+   stage("Dev Two"){
+   steps{
+   echo 'this for dev two'
+   }
+   }
+ }
+}
