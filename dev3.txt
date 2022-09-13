@@ -1,0 +1,2 @@
+verify loan details operation.
+Otp generated operation.
