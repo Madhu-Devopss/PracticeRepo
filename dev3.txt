@@ -1,2 +1,3 @@
 verify loan details operation.
 Otp generated operation.
+loan processed successfully.
