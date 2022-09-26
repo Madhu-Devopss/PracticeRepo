@@ -1,0 +1,20 @@
+pipeline{
+agent any
+stages{
+ stage(" dev3 SCM checkout"){
+ steps{
+    echo 'git code'
+ }
+ }
+ stage("Nexus"){
+ steps{
+ echo 'Nexus Repo'
+ }
+ }
+ stage("Maven"){
+ steps{
+  echo 'maven build'
+ }
+ }
+}
+}
