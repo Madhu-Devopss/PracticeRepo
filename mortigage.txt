@@ -1,1 +1,3 @@
 Loan id generated.
+Loan processed.
+Loan success.
