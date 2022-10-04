@@ -1,1 +1,3 @@
 Atlas software filter loan ids.
+Failed information.
+Redirected to system.
