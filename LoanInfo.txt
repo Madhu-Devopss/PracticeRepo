@@ -1,2 +1,5 @@
 Atlas software filter loan ids.
 Failed information.
+Redirected to system.
+Notified to mgic
+
